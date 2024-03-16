@@ -1,0 +1,6 @@
+{
+  "name": "repo-reusable-test",
+  "dependencies": {
+    "@dataform/core": "2.8.3"
+  }
+}
